@@ -150,7 +150,8 @@ body {
 }
 
 .lista__link a:active {
-    color: orangered;
+    color: #6eabf7;
+    text-decoration: underline;
 }
 
 .container__botao:hover {
